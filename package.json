@@ -1,0 +1,25 @@
+{
+  "name": "qr-builder",
+  "version": "1.0.0",
+  "description": "Create Your QR",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/probiss/qr-builder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/probiss/qr-builder/issues"
+  },
+  "homepage": "https://github.com/probiss/qr-builder#readme",
+  "dependencies": {
+    "inquirer": "^9.2.7",
+    "qr-image": "^3.2.0"
+  }
+}
